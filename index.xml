@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>United Square</title>
-    <link>http://unitedsquare.com.au/</link>
+    <link>http://united-square.github.io/</link>
     <description>Recent content on United Square</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://unitedsquare.com.au/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://united-square.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
