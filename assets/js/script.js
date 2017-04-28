@@ -6,7 +6,7 @@
  *******************************************************/
 var jPM = {},
   pageLoaderDone = false;
-var PLUGINS_LOCALPATH = './assets/plugins/';
+var PLUGINS_LOCALPATH = '/assets/plugins/';
 var SLIDER_REV_VERSION = '4.6';
 var loadedFiles = [];
 
